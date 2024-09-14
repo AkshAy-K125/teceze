@@ -12,3 +12,25 @@
     justify-content: space-evenly;
     align-items: flex-start;
 }
+
+.footerWrapper p{
+padding: 0.5rem;
+}
+
+.lemonColor{
+    font-size: 20px;
+    color:#B8FD50;
+    font-weight: bold;
+}
+
+.lastWrapper{
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lastWrapper a{
+    color: white;
+    padding: 2rem;
+    text-decoration: none;
+}

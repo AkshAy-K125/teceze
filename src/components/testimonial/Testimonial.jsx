@@ -36,7 +36,7 @@ const Testimonial = () => {
                   bring my unique ideas to life and create a website that truely
                   stands out.
                 </p>
-                <p>Diana Loreasia</p>
+                <p>Akshay Kumar</p>
                 <p>Director of Gymstory</p>
               </div>
               <div>
