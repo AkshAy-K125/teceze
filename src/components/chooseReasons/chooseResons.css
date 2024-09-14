@@ -1,0 +1,44 @@
+.wcuImageContainer{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.wcuImageContainer img{
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+}
+.content{
+    padding: 3rem 0;
+    justify-content: space-around;
+}
+
+.mainPara{
+    display: flex;
+    word-wrap: break-word;
+    font-weight: bold;
+    margin: 2rem;
+    width: 30vw;
+    font-size: 3rem;
+}
+
+.mainParaTag{
+    display: flex;
+    word-wrap: break-word;
+    margin: 2rem;
+    width: 40vw;
+    font-size: 1.25rem;
+}
+
+.contentButton{
+    display: flex;
+    margin: 2rem;
+    border-radius: 10px;
+    padding: 1rem 2rem;
+    border: none;
+    font-weight: bold;
+    background: #B8FD50;
+    font-size: 1.25rem;
+    cursor: pointer;
+}

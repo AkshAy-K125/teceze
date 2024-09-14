@@ -1,0 +1,27 @@
+.whuContainer{
+    height: max-content;
+    background: #2D2D2D;
+    color: white;
+}
+
+.marginWrapperWCU{
+    height: -webkit-fill-available;
+    margin: 0 7rem;
+}
+
+.wcuHeader{
+    padding: 2rem;
+}
+
+.wcuHeader{
+    font-weight: bold;
+    display: flex;
+    font-size: 3rem;
+    align-items: center;
+}
+
+.wcuHeader hr{
+    width: 100px;
+    margin: .5rem;
+}
+

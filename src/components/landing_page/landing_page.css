@@ -38,6 +38,7 @@
     border: none;
     font-weight: bold;
     background: #B8FD50;
+    cursor: pointer;
 }
 
 .hrWrapper{
