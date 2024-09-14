@@ -1,5 +1,6 @@
 .testimonialContainer{
-    height: 100vh;
+  height: max-content;
+  padding: 7rem 0;
 }
 
 .testimonialMarginWrapper{
@@ -17,15 +18,16 @@
 }
 
 .testimonialContentCarasoul{
-    box-shadow: -1px 1px 4px 0px grey;
-    display: flex;
-    width: 60vw;
-    background: #F8F8F8;
-    margin: 0 2rem;
-    height: 40vh;
-    border-radius: 10px;
-    align-items: center;
-    justify-content: space-evenly;
+  box-shadow: -1px 1px 4px 0px grey;
+  display: flex;
+  width: 60vw;
+  background: #F8F8F8;
+  margin: 0 2rem;
+  padding: 1rem 0;
+  height: max-content;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: space-evenly;
 }
 
 .testimonialContentHeader p{

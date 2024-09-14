@@ -1,5 +1,6 @@
 .serviceContainer{
-    height: 100vh;
+    height: max-content;
+    padding: 7rem 0;
     background: black;
     display: flex;  
     color: white;
