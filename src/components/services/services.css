@@ -1,0 +1,52 @@
+.serviceContainer{
+    height: 100vh;
+    background: black;
+    display: flex;  
+    color: white;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.heading{
+    font-weight: bold;
+    font-size: 5rem;
+}
+
+.serviceTag{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.serviceMinionsContainer{
+    display: flex;
+    width: -webkit-fill-available;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+
+.serviceMinionsContainer div{
+    display: flex;
+    background: #B8FD50;
+    color: black;
+    width: 200px;
+    font-weight: bold;
+    margin: 2.5rem;
+    border-radius: 10px;
+    height: 200px;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+
+.marginWrapper{
+    height: -webkit-fill-available;
+    margin: 0 7rem;
+    display: flex;  
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
