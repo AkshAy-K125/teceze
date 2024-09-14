@@ -1,0 +1,14 @@
+.foooterContainer{
+    height: max-content;
+    color: white;
+    background: black;
+}
+
+.footerWrapper{
+    margin: 0 7rem;
+    padding: 3rem 0;
+    display: flex;
+    width: -webkit-fill-available;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
