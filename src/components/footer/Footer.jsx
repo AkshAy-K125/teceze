@@ -30,8 +30,8 @@ const Footer = () => {
           </div>
           <div>
             <p className="lemonColor">Contact Us</p>
-            <p>email</p>
-            <p>phone</p>
+            <p>info@kronix.com</p>
+            <p>(001) 1231 3435</p>
             <p>social media</p>
           </div>
           <div></div>

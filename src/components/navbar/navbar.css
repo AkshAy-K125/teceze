@@ -1,0 +1,25 @@
+.NaveContainer{
+    display: flex;
+    position: sticky;
+    top: 0;
+    background: black;
+    padding: 1rem;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.NaveContainer a{
+    color: white;
+    font-weight: bold;
+    padding: 2rem;
+    text-decoration: none;
+}
+
+.NaveContainer button{
+    border-radius: 10px;
+    padding: 1rem 2rem;
+    border: none;
+    font-weight: bold;
+    background: #B8FD50;
+    cursor: pointer;
+}
