@@ -1,0 +1,74 @@
+.landingPageContainer{
+    width: -webkit-fill-available;
+    background: black;
+    color: white;
+    height: 100vh;
+}
+
+.landingPage_contentWrapper{
+    display: flex;
+    flex-direction: column;
+    height: -webkit-fill-available;
+    align-items: center;
+    justify-content: center;
+    margin: 0 7rem;
+    background: url("../../assets/landingBg.png");
+}
+
+.lemon{
+    color: #B8FD50;
+    font-size: 7rem;    
+}
+
+.intro{
+    font-weight: bold;
+    font-size: 7rem;
+    padding: .5rem;
+}
+
+.introtag{
+    font-size: 1.5rem;
+    padding: 2rem;
+}
+
+.introStartNow_button{
+    border-radius: 10px;
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    border: none;
+    font-weight: bold;
+    background: #B8FD50;
+}
+
+.hrWrapper{
+    display: flex;
+    align-items: center;
+    margin: 2rem;
+}
+
+.hrWrapper hr{
+    width: 40px;
+    margin: .5rem;
+}
+
+.hrWrapper span{
+    font-weight: bold;
+    font-variant: all-small-caps;
+
+}
+
+.landingMinions{
+    display: flex;
+    width: -webkit-fill-available;
+    background: #212121;
+    padding: 2rem;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.landingMinions div{
+    display: flex;
+    font-size: 1.5rem;
+    font-weight: bold;
+    align-items: center;
+}
